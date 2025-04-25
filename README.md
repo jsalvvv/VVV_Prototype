@@ -1,6 +1,6 @@
 # README
 
-## Project Name: Virtual Vocation Ventures Career Helper
+## Project Name: Search Occupations Keyword
 
 ## Description
 This project is a career helper application built using Streamlit, a Python library for creating web applications. The application allows users to search for occupations based on keywords and provides detailed search results. This is powered with the ONET API, which provides occupational data. 

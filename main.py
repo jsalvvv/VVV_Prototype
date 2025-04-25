@@ -2,7 +2,7 @@ import streamlit as st
 from tools.api import get_request
 from tools.utils import render_search_results, render_detailed_search
 
-st.title("Virtual Vocation Ventures Career Helper")
+st.title("Search Occupations")
 
 search_container = st.container()
 with search_container:
